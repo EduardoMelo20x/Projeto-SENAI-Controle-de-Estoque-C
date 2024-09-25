@@ -263,10 +263,6 @@ printf("\n");
 printf("=======================================================================================================================\n");
 printf("\n");
 
-
-
-
-
 printf(" OPCOES: \n\n");
 printf(" 1 - VISUALIZAR PRODUTOS DA LOJA \n");
 printf(" 2 - VISUALIZAR PEDIDOS ONLINE \n");
