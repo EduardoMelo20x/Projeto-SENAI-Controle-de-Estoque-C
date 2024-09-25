@@ -7,8 +7,6 @@
 
 int main()
 
-
-
 {
 system("color 0B");
 setlocale(LC_ALL,"Portuguese");
